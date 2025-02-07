@@ -5,9 +5,10 @@ local tune_color = require("base46.colors").change_hex_lightness
 
 local hlgroups = {
 
-    -- YaziFloat = {
-    --     fg = colors.white, bg = colors.black2
-    -- },
+    YaziFloat = {
+        -- fg = colors.white, 
+        bg = colors.black2
+    },
     YaziFloatBorder = {
         fg = colors.black2,
         bg = colors.black2,
