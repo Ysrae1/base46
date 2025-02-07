@@ -14,9 +14,6 @@ local hlgroups = {
         bg = colors.black2,
     },
 
-
-
-
 }
 
 return hlgroups
