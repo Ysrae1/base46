@@ -19,7 +19,10 @@ local hlgroups = {
 --     fg = colors.black,
 --     bg = colors.green,
 --   },
-
+FloatBorder = {
+    fg = colors.darker_black,
+    bg = colors.darker_black,
+},
   -- TelescopePromptTitle -> SnacksInputTitle
   SnacksInputTitle = {
     fg = colors.black,
