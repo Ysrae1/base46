@@ -9,8 +9,8 @@ local hlgroups = {
     --     fg = colors.white, bg = colors.black2
     -- },
     YaziFloatBorder = {
-        fg = colors.darker_black,
-        bg = colors.darker_black,
+        fg = colors.black2,
+        bg = colors.black2,
     },
 
 
