@@ -36,7 +36,7 @@ FloatBorder = {
 
   SnacksPickerListTitle = {
     fg = colors.black,
-    bg = colors.green,
+    bg = colors.blue,
   },
 --   -- TelescopeSelection -> SnacksPickerSelected
 --   SnacksPickerSelected = {
