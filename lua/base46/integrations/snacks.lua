@@ -29,14 +29,14 @@ FloatBorder = {
     bg = colors.red,
   },
 
-  SnacksPreviewTitle = {
+  SnacksPickerPreviewTitle = {
     fg = colors.black,
     bg = colors.green,
   },
 
-  SnacksListTitle = {
+  SnacksPickerListTitle = {
     fg = colors.black,
-    bg = colors.blue,
+    bg = colors.green,
   },
 --   -- TelescopeSelection -> SnacksPickerSelected
 --   SnacksPickerSelected = {
