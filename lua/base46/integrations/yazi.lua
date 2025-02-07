@@ -7,7 +7,13 @@ local hlgroups = {
 
     YaziFloat = {
         bg = colors.darker_black,
-    }
+    },
+    YaziFloatBorder = {
+        fg = colors.darker_black,
+        bg = colors.darker_black,
+    },
+
+
 
 
 }
