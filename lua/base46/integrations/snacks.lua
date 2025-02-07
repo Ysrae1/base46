@@ -10,9 +10,9 @@ local hlgroups = {
   },
 
   -- TelescopeNormal -> SnacksNormal
-  SnacksNormal = {
-    bg = colors.black,
-  },
+--   SnacksNormal = {
+--     bg = colors.black,
+--   },
 
   -- TelescopePreviewTitle -> SnacksDashboardTitle
 --   SnacksDashboardTitle = {
@@ -41,12 +41,12 @@ local hlgroups = {
   -- TelescopeBorder / TelescopePromptBorder -> SnacksInputBorder
   SnacksInputBorder = {
     fg = colors.one_bg3,
-    bg = colors.black,
+    bg = colors.darker_black,
   },
 
   -- TelescopePromptNormal -> SnacksInputNormal
   SnacksInputNormal = {
-    bg = colors.black,
+    bg = colors.darker_black,
   },
 
   ----------------------------------------------------------------------
