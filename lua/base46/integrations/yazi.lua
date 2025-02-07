@@ -18,3 +18,5 @@ local hlgroups = {
 
 
 }
+
+return hlgroups
