@@ -4,10 +4,10 @@ local hlgroups = {
   -- 映射部分：从 Telescope 对应到 Snacks 的高亮项
 
   -- TelescopePromptPrefix -> SnacksInputPrompt
-  SnacksInputPrompt = {
-    fg = colors.red,
-    bg = colors.black2,
-  },
+--   SnacksInputPrompt = {
+--     fg = colors.red,
+--     bg = colors.black2,
+--   },
 
   -- TelescopeNormal -> SnacksNormal
 --   SnacksNormal = {
@@ -40,7 +40,7 @@ local hlgroups = {
 
   -- TelescopeBorder / TelescopePromptBorder -> SnacksInputBorder
   SnacksInputBorder = {
-    fg = colors.one_bg3,
+    fg = colors.darker_black,
     bg = colors.darker_black,
   },
 
