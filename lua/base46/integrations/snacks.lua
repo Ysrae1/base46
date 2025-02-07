@@ -24,22 +24,31 @@ FloatBorder = {
     bg = colors.darker_black,
 },
   -- TelescopePromptTitle -> SnacksInputTitle
-  SnacksInputTitle = {
+  SnacksPickerTitle = {
     fg = colors.black,
     bg = colors.red,
   },
 
-  -- TelescopeSelection -> SnacksPickerSelected
-  SnacksPickerSelected = {
-    bg = colors.black2,
-    fg = colors.white,
+  SnacksPreviewTitle = {
+    fg = colors.black,
+    bg = colors.green,
   },
 
-  -- TelescopeMatching -> SnacksPickerMatch
-  SnacksPickerMatch = {
-    bg = colors.one_bg,
-    fg = colors.blue,
+  SnacksListTitle = {
+    fg = colors.black,
+    bg = colors.blue,
   },
+--   -- TelescopeSelection -> SnacksPickerSelected
+--   SnacksPickerSelected = {
+--     bg = colors.black2,
+--     fg = colors.white,
+--   },
+
+--   -- TelescopeMatching -> SnacksPickerMatch
+--   SnacksPickerMatch = {
+--     bg = colors.one_bg,
+--     fg = colors.blue,
+--   },
 
   -- TelescopeBorder / TelescopePromptBorder -> SnacksInputBorder
   SnacksInputBorder = {
